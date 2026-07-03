@@ -27,9 +27,10 @@ Each solution includes:
 | 182 | [Duplicate Emails](Easy/182.%20Duplicate%20Emails.md) | 🟢 Easy |
 | 183 | [Customers Who Never Order](Easy/183.%20Customers%20Who%20Never%20Order.md) | 🟢 Easy |
 | 184 | [Department Highest Salary](Medium/184.%20Department%20Highest%20Salary.md) | 🟡 Medium |
-| 185 | Department Top Three Salaries | 🔴 Hard |
+| 185 | [Department Top Three Salaries](Hard/185.%20Department%20Top%20Three%20Salaries.md) | 🔴 Hard |
 | 196 | [Delete Duplicate Emails](Easy/196.%20Delete%20Duplicate%20Emails.md) | 🟢 Easy |
 | 197 | [Rising Temperature](Easy/197.%20Rising%20Temperature.md) | 🟢 Easy |
+| 262 | [Trips and Users](Medium/262.%20Trips%20and%20Users.md) | 🔴 Hard |
 | 511 | [Game Play Analysis I](Easy/511.%20Game%20Play%20Analysis%20I.md) | 🟢 Easy |
 | 577 | [Employee Bonus](Easy/577.%20Employee%20Bonus.md) | 🟢 Easy |
 | 584 | [Find Customer Referee](Easy/584.%20Find%20Customer%20Referee.md) | 🟢 Easy |
