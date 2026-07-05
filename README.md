@@ -39,8 +39,9 @@ Each solution includes:
 | 19 | 585 | [Investments in 2016](Medium/585.%20Investments%20in%202016.md) | 🟡 Medium |
 | 20 | 586 | [Customer Placing the Largest Number of Orders](Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md) | 🟢 Easy |
 | 21 | 595 | [Big Countries](Easy/595.%20Big%20Countries.md) | 🟢 Easy |
-| 22 | 596 | [Classes More Than 5 Students](Easy/596.%20Classes%20More%20Than%205%20Students.md) | 🟢 Easy |
-| 23 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
+| 22 | 596 | [Classes With at Least 5 Students](Easy/596.%20Classes%20With%20at%20Least%205%20Students.md) | 🟢 Easy |
+| 23 | 601 | [Human Traffic of Stadium](Hard/601.%20Human%20Traffic%20of%20Stadium.md) | 🔴 Hard |
+| 24 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
 
 ---
 
