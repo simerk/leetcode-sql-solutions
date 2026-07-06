@@ -43,7 +43,7 @@ Each solution includes:
 | 23 | 601 | [Human Traffic of Stadium](Hard/601.%20Human%20Traffic%20of%20Stadium.md) | 🔴 Hard |
 | 24 | 602 | [Friend Requests II: Who Has the Most Friends](Medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.md) | 🟡 Medium |
 | 25 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
-602. Friend Requests II: Who Has the Most Friends
----
+| 26 | 608 | [Tree Node](Medium/608.%20Tree%20Node.md) | 🟡 Medium |
+| 27 | 610 | [Triangle Judgement](Easy/610.%20Traingle%20Judgement.md) | 🟢 Easy |
 
 ⭐ New solutions are added regularly.
