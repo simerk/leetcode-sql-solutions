@@ -45,5 +45,12 @@ Each solution includes:
 | 25 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
 | 26 | 608 | [Tree Node](Medium/608.%20Tree%20Node.md) | 🟡 Medium |
 | 27 | 610 | [Triangle Judgement](Easy/610.%20Triangle%20Judgement.md) | 🟢 Easy |
+| 28 | 619 | [Biggest Single Number](Easy/619.%20Biggest%20Single%20Number.md) | 🟢 Easy |
+| 29 | 620 | [Not Boring Movies](Easy/620.%20Not%20Boring%20Movies.md) | 🟢 Easy |
+| 30 | 626 | [Exchange Seats](Medium/626.%20Exchange%20Seats.md) | 🟡 Medium |
+| 31 | 627 | [Swap Sex of Employees](Easy/627.%20Swap%20Sex%20of%20Employees.md) | 🟢 Easy |
+| 32 | 1045 | [Customers Who Bought All Products](Medium/1045.%20Customers%20Who%20Bought%20All%20Products.md) | 🟡 Medium |
+| 33 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](Easy/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md) | 🟢 Easy |
+| 34 | 1068 | [Product Sales Analysis I](Easy/1068.%20Product%20Sales%20Analysis%20I.md) | 🟢 Easy |
 
 ⭐ New solutions are added regularly.
